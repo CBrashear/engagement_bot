@@ -19,12 +19,11 @@ class API_Wrapper:
   # 
   # @param: path - string
   # 
-  # Output: Print the body for now.
+  # Return: Response object
   def search(self, path):
     url = self.api_base_url + path
     headers = {
       'Authorization': self.bearer_token
     }
 
-    response = req.request('GET', url, headers=headers)
-    print(response.text)
+    return req.request('GET', url, headers=headers)

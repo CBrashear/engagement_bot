@@ -3,13 +3,25 @@
 from API_Wrapper import API_Wrapper
 
 class Twitter_API(API_Wrapper):
+  TWEETS_LOOKUP = '/2/tweets'
+  TWEET_OBJECT_FIELDS = 'author_id,context_annotations,conversation_id,lang,in_reply_to_user_id,public_metrics,referenced_tweets'
+  USERS_LOOKUP = '/2/users'
+
   def __init__(self, bearer_token):
     super().__init__('https://api.twitter.com', bearer_token)
 
   # 
   # Search based on username: https://developer.twitter.com/en/docs/twitter-api/users/lookup/quick-start/user-lookup
   # 
-  def search_username(self, username):
-    path = '/2/users/by/username/' + username
+  # Return: Response Object
+  def search_usernames(self, usernames):
+    path = f"{self.USERS_LOOKUP}/by?usernames={usernames}"
+    return self.search(path)
 
-    self.search(path)
+  # 
+  # Search based on tweet ids: https://developer.twitter.com/en/docs/twitter-api/tweets/lookup/quick-start
+  # 
+  # Return: Response Object
+  def search_tweets(self, tweet_ids):
+    path = f"{self.TWEETS_LOOKUP}?ids={tweet_ids}&tweet.fields={self.TWEET_OBJECT_FIELDS}"
+    return self.search(path)

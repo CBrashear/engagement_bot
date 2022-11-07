@@ -9,4 +9,9 @@ load_dotenv()
 token = 'Bearer ' + os.getenv('APP_ONLY_BEARER_TOKEN')
 
 Twitter = Twitter_API(token)
-Twitter.search_username('BotEngagement')
+
+username_response = Twitter.search_usernames('BotEngagement')
+tweet_id_response = Twitter.search_tweets(1588905886051102721)
+
+print(username_response)
+print(tweet_id_response)

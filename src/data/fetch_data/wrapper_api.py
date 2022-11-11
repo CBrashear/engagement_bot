@@ -27,4 +27,3 @@ class WrapperAPI:
     }
 
     return req.request('GET', url, headers=headers, timeout=5).text
-    

@@ -1,11 +1,13 @@
 # Twitter API Wrapper, to handle all interactions to Twitter API 
 
-from API_Wrapper import API_Wrapper
+from data.fetch_data.API_Wrapper import API_Wrapper
 
 class Twitter_API(API_Wrapper):
   TWEETS_LOOKUP = '/2/tweets'
-  TWEET_OBJECT_FIELDS = 'author_id,context_annotations,conversation_id,lang,in_reply_to_user_id,public_metrics,referenced_tweets'
   USERS_LOOKUP = '/2/users'
+  TWEET_OBJECT_FIELDS = 'author_id,context_annotations,conversation_id,lang,in_reply_to_user_id,public_metrics,referenced_tweets'
+  USER_OBJECT_FIELDS = 'verified,public_metrics,protected'
+  EXPANSIONS_FIELDS = 'author_id'
 
   def __init__(self, bearer_token):
     super().__init__('https://api.twitter.com', bearer_token)

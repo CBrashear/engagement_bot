@@ -1,8 +1,11 @@
 # Start for program, will maybe consider an MVC framework later if needed
 
+# Python imports
 import os
-from Twitter_API import Twitter_API
 from dotenv import load_dotenv
+
+# Repo imports
+from data.fetch_data.Twitter_API import Twitter_API
 
 load_dotenv()
 

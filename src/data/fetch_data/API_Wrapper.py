@@ -26,4 +26,5 @@ class API_Wrapper:
       'Authorization': self.bearer_token
     }
 
-    return req.request('GET', url, headers=headers)
+    return req.request('GET', url, headers=headers, timeout=5).text
+    

@@ -1,8 +1,8 @@
 # Twitter API Wrapper, to handle all interactions to Twitter API 
 
-from data.fetch_data.API_Wrapper import API_Wrapper
+from data.fetch_data.wrapper_api import WrapperAPI
 
-class Twitter_API(API_Wrapper):
+class TwitterAPI(WrapperAPI):
   TWEETS_LOOKUP = '/2/tweets'
   USERS_LOOKUP = '/2/users'
   TWEET_OBJECT_FIELDS = 'author_id,context_annotations,conversation_id,lang,in_reply_to_user_id,public_metrics,referenced_tweets'

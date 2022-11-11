@@ -2,7 +2,7 @@
 
 import requests as req
 
-class API_Wrapper:
+class WrapperAPI:
   def __init__(self, api_base_url, bearer_token):
     self.api_base_url = api_base_url
     self.bearer_token = bearer_token

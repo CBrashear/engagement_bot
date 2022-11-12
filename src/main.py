@@ -1,4 +1,4 @@
-# Start for program, will maybe consider an MVC framework later if needed
+# Start for program, will maybe consider an MVC framework later if needed.
 
 # Python imports
 import os

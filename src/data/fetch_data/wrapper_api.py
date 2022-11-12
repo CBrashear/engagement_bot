@@ -1,4 +1,4 @@
-# Base Wrapper class for API's
+# Base Wrapper class for API's.
 
 import requests as req
 
@@ -19,7 +19,7 @@ class WrapperAPI:
   # 
   # @param: path - string
   # 
-  # Return: Response object
+  # Return: text response
   def search(self, path):
     url = self.api_base_url + path
     headers = {

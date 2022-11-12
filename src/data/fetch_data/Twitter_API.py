@@ -1,4 +1,4 @@
-# Twitter API Wrapper, to handle all interactions to Twitter API 
+# Twitter API Wrapper, to handle all interactions to Twitter API.
 
 from data.fetch_data.wrapper_api import WrapperAPI
 

@@ -1,0 +1,9 @@
+[project]
+name = "top_engagement_bot"
+description = "Bot to mimic top engagement on Twitter"
+readme = "README.md"
+version = "0.0.1"
+dependencies = [
+    "requests",
+    'importlib-metadata; python_version<"3.9"',
+]

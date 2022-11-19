@@ -24,6 +24,6 @@ class TwitterAPI(WrapperAPI):
   # Search based on tweet ids: https://developer.twitter.com/en/docs/twitter-api/tweets/lookup/quick-start
   # 
   # Return: Response Object
-  def search_tweets(self, tweet_ids):
+  def search_tweets_by_ids(self, tweet_ids):
     path = f"{self.TWEETS_LOOKUP}?ids={tweet_ids}&tweet.fields={self.TWEET_OBJECT_FIELDS}"
     return self.search(path)

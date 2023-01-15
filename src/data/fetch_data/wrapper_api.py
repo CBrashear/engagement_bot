@@ -26,4 +26,7 @@ class WrapperAPI:
       'Authorization': self.bearer_token
     }
 
-    return req.request('GET', url, headers=headers, timeout=5).text
+    response_object = req.request('GET', url, headers=headers, timeout=5)
+
+    if response_object.status_code != 200: raise ValueError('HTTP Error', response_object.status_code, response_object.text)
+    return response_object.text

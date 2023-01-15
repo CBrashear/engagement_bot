@@ -6,15 +6,21 @@ from dotenv import load_dotenv
 
 # Repo imports
 from data.fetch_data.twitter_api import TwitterAPI
+from data.process_data.twitter_db_adapter import TwitterDBAdapter
+from data.process_data.twitter_interpreter import TwitterInterpreter
 
 load_dotenv()
 
 token = 'Bearer ' + os.getenv('APP_ONLY_BEARER_TOKEN')
 
 Twitter = TwitterAPI(token)
+TwitterDatabase = TwitterDBAdapter()
+TwitterIntrepret = TwitterInterpreter()
 
-username_response = Twitter.search_usernames('BotEngagement')
-tweet_id_response = Twitter.search_tweets('1588905886051102721')
+recent_tweets_response = Twitter.search_recent_tweets_with_query('elon -is:retweet -is:reply -is:quote')
 
-print(username_response)
-print(tweet_id_response)
+validated_tweets = TwitterIntrepret.filtered_tweets_by_validation(recent_tweets_response)
+
+TwitterIntrepret.print_tweets(validated_tweets)
+
+print('End')

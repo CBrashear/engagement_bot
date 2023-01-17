@@ -1,1 +1,2804 @@
 { "data": [ { "author_id": "16806754", "lang": "en", "context_annotations": [ { "domain": { "id": "3", "name": "TV Shows", "description": "Television shows from around the world" }, "entity": { "id": "10000612773", "name": "NFL Football", "description": "Replays of classic NFL games." } }, { "domain": { "id": "6", "name": "Sports Event" }, "entity": { "id": "1524906805368827905", "name": "Steelers at Eagles" } }, { "domain": { "id": "11", "name": "Sport", "description": "Types of sports, like soccer and basketball" }, "entity": { "id": "689566306014617600", "name": "American football" } }, { "domain": { "id": "12", "name": "Sports Team", "description": "A sports team organization, like Arsenal and the Boston Celtics" }, "entity": { "id": "689566306027188224", "name": "Pittsburgh Steelers" } }, { "domain": { "id": "26", "name": "Sports League", "description": "" }, "entity": { "id": "689566314835259392", "name": "NFL" } }, { "domain": { "id": "27", "name": "American Football Game", "description": "Sports Event specific to American Football, such as Notre Dame vs. Stanford" }, "entity": { "id": "1524906805368827905", "name": "Steelers at Eagles" } }, { "domain": { "id": "28", "name": "NFL Football Game", "description": "Sports Event specific to NFL Football, such as Buffalo Bills vs. New England Patriots" }, "entity": { "id": "1524906805368827905", "name": "Steelers at Eagles" } }, { "domain": { "id": "29", "name": "Events [Entity Service]", "description": "Real world events. " }, "entity": { "id": "1524906805368827905", "name": "Steelers at Eagles" } }, { "domain": { "id": "46", "name": "Business Taxonomy", "description": "Categories within Brand Verticals that narrow down the scope of Brands" }, "entity": { "id": "1557697289971322880", "name": "Sports & Fitness Business", "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "689566306014617600", "name": "American football" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "689566306027188224", "name": "Pittsburgh Steelers" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "689566314835259392", "name": "NFL" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "847900493514891265", "name": "Sports", "description": "Sports" } } ], "edit_history_tweet_ids": [ "1586866222888407041" ], "id": "1586866222888407041", "public_metrics": { "retweet_count": 21, "reply_count": 792, "like_count": 446, "quote_count": 79 }, "conversation_id": "1586866222888407041", "text": "How many of these final nine games will the #Steelers win? https://t.co/tQvVNpy7H4" }, { "author_id": "16806754", "lang": "en", "context_annotations": [ { "domain": { "id": "3", "name": "TV Shows", "description": "Television shows from around the world" }, "entity": { "id": "10000612773", "name": "NFL Football", "description": "Replays of classic NFL games." } }, { "domain": { "id": "3", "name": "TV Shows", "description": "Television shows from around the world" }, "entity": { "id": "10032425201", "name": "NFL Football" } }, { "domain": { "id": "10", "name": "Person", "description": "Named people in the world like Nelson Mandela" }, "entity": { "id": "1253866060207415296", "name": "Chase Claypool" } }, { "domain": { "id": "11", "name": "Sport", "description": "Types of sports, like soccer and basketball" }, "entity": { "id": "689566306014617600", "name": "American football" } }, { "domain": { "id": "12", "name": "Sports Team", "description": "A sports team organization, like Arsenal and the Boston Celtics" }, "entity": { "id": "689566302801768449", "name": "Chicago Bears" } }, { "domain": { "id": "12", "name": "Sports Team", "description": "A sports team organization, like Arsenal and the Boston Celtics" }, "entity": { "id": "689566306027188224", "name": "Pittsburgh Steelers" } }, { "domain": { "id": "26", "name": "Sports League", "description": "" }, "entity": { "id": "689566314835259392", "name": "NFL" } }, { "domain": { "id": "46", "name": "Business Taxonomy", "description": "Categories within Brand Verticals that narrow down the scope of Brands" }, "entity": { "id": "1557697289971322880", "name": "Sports & Fitness Business", "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues" } }, { "domain": { "id": "60", "name": "Athlete", "description": "An athlete in the world, like Serena Williams or Lionel Messi" }, "entity": { "id": "1253866060207415296", "name": "Chase Claypool" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "689566302801768449", "name": "Chicago Bears" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "689566306014617600", "name": "American football" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "689566306027188224", "name": "Pittsburgh Steelers" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "689566314835259392", "name": "NFL" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "847900493514891265", "name": "Sports", "description": "Sports" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "1253866060207415296", "name": "Chase Claypool" } }, { "domain": { "id": "131", "name": "Unified Twitter Taxonomy", "description": "A taxonomy of user interests. " }, "entity": { "id": "1263187885970227200", "name": "NFL players" } } ], "edit_history_tweet_ids": [ "1588905886051102721" ], "id": "1588905886051102721", "public_metrics": { "retweet_count": 0, "reply_count": 0, "like_count": 2, "quote_count": 0 }, "conversation_id": "1588905886051102721", "text": "Chase Claypool Already Turning Heads At Bears Practices #Steelers #NFL https://t.co/hEs5EokM6T" }, { "author_id": "2615749790", "lang": "en", "edit_history_tweet_ids": [ "1588564617907044353" ], "referenced_tweets": [ { "type": "replied_to", "id": "1586866222888407041" } ], "in_reply_to_user_id": "16806754", "id": "1588564617907044353", "public_metrics": { "retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0 }, "conversation_id": "1586866222888407041", "text": "@Steelersdepot Unfortunately, they\'ll win just enough games to finish in the middle of the pack in regard to the draft. They need a top five draft pick position next year along with having hopefully a decently high second round Bears pick they got." } ], "includes": { "users": [ { "public_metrics": { "followers_count": 115581, "following_count": 2150, "tweet_count": 641916, "listed_count": 1377 }, "name": "Steelers Depot 7⃣🦃", "id": "16806754", "protected": false, "username": "Steelersdepot", "verified": false }, { "public_metrics": { "followers_count": 15, "following_count": 129, "tweet_count": 635, "listed_count": 5 }, "name": "AhhtaStateYinzer", "id": "2615749790", "protected": false, "username": "ChippedHam67", "verified": false } ] } }
+{
+  "data": [
+      {
+          "text": "#DeplatformValidLs it's not going to happen. Considering elon is super transphobic himself, he'll probably make sure the account stays up and has extra protection.",
+          "edit_history_tweet_ids": [
+              "1612237715466059781"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 3,
+              "like_count": 4,
+              "quote_count": 0,
+              "impression_count": 240
+          },
+          "created_at": "2023-01-08T23:59:59.000Z",
+          "id": "1612237715466059781",
+          "author_id": "942685843"
+      },
+      {
+          "text": "Thanks Elon, you’ve turned this place into a right wing crap fest, why aren’t you in South Africa?",
+          "edit_history_tweet_ids": [
+              "1612237701398265856"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 11
+          },
+          "created_at": "2023-01-08T23:59:56.000Z",
+          "id": "1612237701398265856",
+          "author_id": "1275479934157369344"
+      },
+      {
+          "text": "elon is kazuhaphobic 😟",
+          "edit_history_tweet_ids": [
+              "1612237685510537216"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 13
+          },
+          "created_at": "2023-01-08T23:59:52.000Z",
+          "id": "1612237685510537216",
+          "author_id": "1612216085612474370"
+      },
+      {
+          "text": "Btw, I deactivated my Facebook and Instagram. Hopefully, this makes Elon happy! 🙃",
+          "edit_history_tweet_ids": [
+              "1612237611879251969"
+          ],
+          "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 1,
+              "like_count": 1,
+              "quote_count": 1,
+              "impression_count": 97
+          },
+          "created_at": "2023-01-08T23:59:35.000Z",
+          "id": "1612237611879251969",
+          "author_id": "27526008"
+      },
+      {
+          "text": "Mudanças chegando! Elon Musk revela três novos recursos que chegarão ao Twitter este mês https://t.co/dUzFSSTefX via @Tudo_Celular",
+          "edit_history_tweet_ids": [
+              "1612237604161732614"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 12
+          },
+          "created_at": "2023-01-08T23:59:33.000Z",
+          "id": "1612237604161732614",
+          "author_id": "456176493"
+      },
+      {
+          "text": "Hi I'm Jimmy Saville the world renowned pedophile and Elon Musk is flat! WORD! #elonmusk",
+          "edit_history_tweet_ids": [
+              "1612237548243374082"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 13
+          },
+          "created_at": "2023-01-08T23:59:20.000Z",
+          "id": "1612237548243374082",
+          "author_id": "3835582274"
+      },
+      {
+          "text": "The contempt for Elon Musk says something about the press and about Mr Musk, and a lot about Twitter https://t.co/pGzXg0BNQr",
+          "edit_history_tweet_ids": [
+              "1612237489393074178"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 1512
+          },
+          "created_at": "2023-01-08T23:59:06.000Z",
+          "id": "1612237489393074178",
+          "author_id": "32353291"
+      },
+      {
+          "text": "Luca onestini crede di essere Jack sparrow\nEdo T, crede di essere Elon Musk   #gfvip",
+          "edit_history_tweet_ids": [
+              "1612237460603342850"
+          ],
+          "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 1,
+              "like_count": 4,
+              "quote_count": 0,
+              "impression_count": 468
+          },
+          "created_at": "2023-01-08T23:58:59.000Z",
+          "id": "1612237460603342850",
+          "author_id": "993886763902029825"
+      },
+      {
+          "text": "OK Do Facebook and Youtube next!!!                                 \n             Elon Musk: \"I OFFICIALLY Bought Google\" https://t.co/E7uNaKb7kq via @YouTube",
+          "edit_history_tweet_ids": [
+              "1612237427619368964"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 54
+          },
+          "created_at": "2023-01-08T23:58:51.000Z",
+          "id": "1612237427619368964",
+          "author_id": "1519365540753682433"
+      },
+      {
+          "text": "finally blocked elon on his own webpage",
+          "edit_history_tweet_ids": [
+              "1612237400180248577"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 3,
+              "quote_count": 0,
+              "impression_count": 52
+          },
+          "created_at": "2023-01-08T23:58:44.000Z",
+          "id": "1612237400180248577",
+          "author_id": "1267323012111634435"
+      },
+      {
+          "text": "#ElonMusk latest interview the absolute Truth revealed (2 min watch)\nElon Musk gets called out  - The \"Truth\" recut https://t.co/LCIDBCNxOm via @YouTube https://t.co/ktxA3XNMiO",
+          "edit_history_tweet_ids": [
+              "1612237377749291008"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 27
+          },
+          "created_at": "2023-01-08T23:58:39.000Z",
+          "id": "1612237377749291008",
+          "author_id": "28553634"
+      },
+      {
+          "text": "After a tense stand-off between myself and Elon, he finally decided to tell his new workers to finally Verify me😂😂 oh, and the account only has a few followers because I didn’t realize for the longest time I had set it to private and my friends were the only friends saw it😂 https://t.co/6jvGsnKnkM",
+          "edit_history_tweet_ids": [
+              "1612237369373065216"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 27
+          },
+          "created_at": "2023-01-08T23:58:37.000Z",
+          "id": "1612237369373065216",
+          "author_id": "1480722238106226690"
+      },
+      {
+          "text": "Elon Musk llevará al \"Dibu\" Martínez al espacio 📣\nhttps://t.co/HWleKg8T35",
+          "edit_history_tweet_ids": [
+              "1612237352084320256"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 103
+          },
+          "created_at": "2023-01-08T23:58:33.000Z",
+          "id": "1612237352084320256",
+          "author_id": "1278656840180600833"
+      },
+      {
+          "text": "elon musk tirou o \"tweet for iphone/android\" ?",
+          "edit_history_tweet_ids": [
+              "1612237268458037248"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 2,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 241
+          },
+          "created_at": "2023-01-08T23:58:13.000Z",
+          "id": "1612237268458037248",
+          "author_id": "1114537631529017344"
+      },
+      {
+          "text": "????? vai tomar no olho do teu cu elon musk filho da puta https://t.co/atO7ECLUBt",
+          "edit_history_tweet_ids": [
+              "1612237240758927360"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 28
+          },
+          "created_at": "2023-01-08T23:58:06.000Z",
+          "id": "1612237240758927360",
+          "author_id": "1532494980874489857"
+      },
+      {
+          "text": "Według informacji od Elon Musk, Mesjasza… z USA, ten mur elektroniczny, jaki rządzący narodem Niemieckim, zombie, budują wokół Schwedt, w promieniu 90 km od Reduty Miłości… Joanny, Alfa będzie wzmocniony czołgami, artylerią i wojskiem piechoty. https://t.co/cn6BuyAIzQ",
+          "edit_history_tweet_ids": [
+              "1612237164863193090"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 30
+          },
+          "created_at": "2023-01-08T23:57:48.000Z",
+          "id": "1612237164863193090",
+          "author_id": "1548676342853652480"
+      },
+      {
+          "text": "Elon Musk asks court to move Tesla shareholder trial to Texas over potential juror bias https://t.co/9ehQcjqqVL",
+          "edit_history_tweet_ids": [
+              "1612237118113447936"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 9
+          },
+          "created_at": "2023-01-08T23:57:37.000Z",
+          "id": "1612237118113447936",
+          "author_id": "493580137"
+      },
+      {
+          "text": "So why did Elon musk take away the ‘Twitter for iPhone’ if he was still going to bring it back",
+          "edit_history_tweet_ids": [
+              "1612237040724185089"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 10
+          },
+          "created_at": "2023-01-08T23:57:19.000Z",
+          "id": "1612237040724185089",
+          "author_id": "1586031245284282369"
+      },
+      {
+          "text": "The people most dangerous to the mainstream narrative haven’t been reinstated on Twitter. Elon is playing his part as the false savior.",
+          "edit_history_tweet_ids": [
+              "1612237040015347714"
+          ],
+          "public_metrics": {
+              "retweet_count": 5,
+              "reply_count": 1,
+              "like_count": 28,
+              "quote_count": 0,
+              "impression_count": 482
+          },
+          "created_at": "2023-01-08T23:57:18.000Z",
+          "id": "1612237040015347714",
+          "author_id": "53533774"
+      },
+      {
+          "text": "Musk says he can't get fair trial in California, wants Texas (from @AP) https://t.co/UDQngAawxt",
+          "edit_history_tweet_ids": [
+              "1612237038056804352"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 12
+          },
+          "created_at": "2023-01-08T23:57:18.000Z",
+          "id": "1612237038056804352",
+          "author_id": "112857411"
+      },
+      {
+          "text": "Elon Musk: \"I OFFICIALLY Bought Google\" https://t.co/Urw5xk4CSd via @YouTube",
+          "edit_history_tweet_ids": [
+              "1612237021774512131"
+          ],
+          "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 47
+          },
+          "created_at": "2023-01-08T23:57:14.000Z",
+          "id": "1612237021774512131",
+          "author_id": "1275374369049477120"
+      },
+      {
+          "text": "Twitter before Elon: I was stuck at 44K followers. Twitter since Elon took over: I gained over 3K followers. Does that mean I was shadow banned ?",
+          "edit_history_tweet_ids": [
+              "1612237018775552000"
+          ],
+          "public_metrics": {
+              "retweet_count": 8,
+              "reply_count": 19,
+              "like_count": 83,
+              "quote_count": 0,
+              "impression_count": 6412
+          },
+          "created_at": "2023-01-08T23:57:13.000Z",
+          "id": "1612237018775552000",
+          "author_id": "398184852"
+      },
+      {
+          "text": "Elon Musk becomes world's first person to lose $200 billion https://t.co/02bcpByVqt",
+          "edit_history_tweet_ids": [
+              "1612236983832551426"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 2
+          },
+          "created_at": "2023-01-08T23:57:05.000Z",
+          "id": "1612236983832551426",
+          "author_id": "1610041234122330114"
+      },
+      {
+          "text": "Elon Musk Ate 38 Tons Of Avocado Roll. This Is How Their Poosi Shut Down",
+          "edit_history_tweet_ids": [
+              "1612236976949706753"
+          ],
+          "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 1,
+              "like_count": 1,
+              "quote_count": 1,
+              "impression_count": 223
+          },
+          "created_at": "2023-01-08T23:57:03.000Z",
+          "id": "1612236976949706753",
+          "author_id": "1468068767724802052"
+      },
+      {
+          "text": "https://t.co/50dgmqbHLp @elonmusk, appears you hate democracy.  Brought back hate and bull and only releasing one side of the story with Twitter files.  GROW UP",
+          "edit_history_tweet_ids": [
+              "1612236970465411075"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "impression_count": 23
+          },
+          "created_at": "2023-01-08T23:57:02.000Z",
+          "id": "1612236970465411075",
+          "author_id": "2430822780"
+      },
+      {
+          "text": "Elon Musk Says 'If I Die Under Mysterious Circumstances, Nice Knowing You' https://t.co/Znw7FAi2CY",
+          "edit_history_tweet_ids": [
+              "1612236938769039363"
+          ],
+          "public_metrics": {
+              "retweet_count": 3,
+              "reply_count": 2,
+              "like_count": 3,
+              "quote_count": 1,
+              "impression_count": 126
+          },
+          "created_at": "2023-01-08T23:56:54.000Z",
+          "id": "1612236938769039363",
+          "author_id": "1328178129991569408"
+      },
+      {
+          "text": "//4000 characters in a single tweet?\n\nFuck off nah Elon",
+          "edit_history_tweet_ids": [
+              "1612236912487534595"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 50
+          },
+          "created_at": "2023-01-08T23:56:48.000Z",
+          "id": "1612236912487534595",
+          "author_id": "1213751808"
+      },
+      {
+          "text": "Okay but with the whole \"jewel mine in a former British colony\" thing it's time to ruin our childhoods and admit to ourselves that Sara Crewe from A Little Princess grew up to be Elon Musk's great grandmother.",
+          "edit_history_tweet_ids": [
+              "1612236870662094850"
+          ],
+          "public_metrics": {
+              "retweet_count": 9,
+              "reply_count": 5,
+              "like_count": 105,
+              "quote_count": 2,
+              "impression_count": 8262
+          },
+          "created_at": "2023-01-08T23:56:38.000Z",
+          "id": "1612236870662094850",
+          "author_id": "2332044398"
+      },
+      {
+          "text": "Elon Musk Seeks Venue Change In Shareholder Action, Cites Likely “Local Negativity” In San Francisco – Deadline https://t.co/JlEGoQlLog",
+          "edit_history_tweet_ids": [
+              "1612236865708359680"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 43
+          },
+          "created_at": "2023-01-08T23:56:37.000Z",
+          "id": "1612236865708359680",
+          "author_id": "1312260838879887360"
+      },
+      {
+          "text": "Oh, has it🤔\nhttps://t.co/SKeb5n1oo2",
+          "edit_history_tweet_ids": [
+              "1612236832334577664"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 16
+          },
+          "created_at": "2023-01-08T23:56:29.000Z",
+          "id": "1612236832334577664",
+          "author_id": "1463991152458227713"
+      },
+      {
+          "text": "https://t.co/7Z6y218ccP",
+          "edit_history_tweet_ids": [
+              "1612236819307048960"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 15
+          },
+          "created_at": "2023-01-08T23:56:26.000Z",
+          "id": "1612236819307048960",
+          "author_id": "1519720601698504704"
+      },
+      {
+          "text": "Monday Motivation Elon Musk Rules Of Success - TIME Person Of The Year.  \n#Leadership  #infographic  292 https://t.co/VueYtnCLv9",
+          "edit_history_tweet_ids": [
+              "1612236809362178052"
+          ],
+          "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 0,
+              "like_count": 3,
+              "quote_count": 0,
+              "impression_count": 284
+          },
+          "created_at": "2023-01-08T23:56:23.000Z",
+          "id": "1612236809362178052",
+          "author_id": "8157452"
+      },
+      {
+          "text": "Elon made posting selfies on here 10x more uncomfortable than it already is",
+          "edit_history_tweet_ids": [
+              "1612236722460393480"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 40
+          },
+          "created_at": "2023-01-08T23:56:03.000Z",
+          "id": "1612236722460393480",
+          "author_id": "1601043360076251136"
+      },
+      {
+          "text": "Twitter is a lot easier to login than Facebook. What are the news on Elon Musk's hostile takeover? Are We still using Twitter or not? I missed all recent developments due to a Transatlantic crossing.",
+          "edit_history_tweet_ids": [
+              "1612236577517834241"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 34
+          },
+          "created_at": "2023-01-08T23:55:28.000Z",
+          "id": "1612236577517834241",
+          "author_id": "115671270"
+      },
+      {
+          "text": "Elon the biggest troll i love it lol... Anyone who tries to trade his tweets",
+          "edit_history_tweet_ids": [
+              "1612236574036746240"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 3
+          },
+          "created_at": "2023-01-08T23:55:27.000Z",
+          "id": "1612236574036746240",
+          "author_id": "1515051169311522816"
+      },
+      {
+          "text": "What trends since Elon Musk took over, reminds me of an Apartheid family member from South Africa that bought US citizenship. He ended up becoming the wealthiest person on earth. Too bad he mocked and laughed at human cruelty and hate.Did he change later in life?",
+          "edit_history_tweet_ids": [
+              "1612236554130587649"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 16
+          },
+          "created_at": "2023-01-08T23:55:23.000Z",
+          "id": "1612236554130587649",
+          "author_id": "1594436206737387521"
+      },
+      {
+          "text": "I think Elon was right. I kinda like the view count now. It’s interesting to see which of my tweets reach further than others versus general analytics.",
+          "edit_history_tweet_ids": [
+              "1612236553828597760"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 41
+          },
+          "created_at": "2023-01-08T23:55:22.000Z",
+          "id": "1612236553828597760",
+          "author_id": "1239381130341683202"
+      },
+      {
+          "text": "Elon Musk: \"I OFFICIALLY Bought Google\" https://t.co/B0DAtY2Fie via @YouTube",
+          "edit_history_tweet_ids": [
+              "1612236509498990593"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 23
+          },
+          "created_at": "2023-01-08T23:55:12.000Z",
+          "id": "1612236509498990593",
+          "author_id": "1945668452"
+      },
+      {
+          "text": "#ProtestosNoBrasil :: Elon Musk diz esperar que brasileiros resolvam a situação de forma pacífica.",
+          "edit_history_tweet_ids": [
+              "1612236505652596738"
+          ],
+          "public_metrics": {
+              "retweet_count": 10,
+              "reply_count": 4,
+              "like_count": 84,
+              "quote_count": 1,
+              "impression_count": 6581
+          },
+          "created_at": "2023-01-08T23:55:11.000Z",
+          "id": "1612236505652596738",
+          "author_id": "1276252006701817874"
+      },
+      {
+          "text": "Every 4000 character tweet is gonna be 3980 characters of unread stuff and 20 of a TL;DR which will get read. Effectively tweets will be shortened to 20. That Elon Musk guy is soooo clever. 🤪",
+          "edit_history_tweet_ids": [
+              "1612236486585339904"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 40
+          },
+          "created_at": "2023-01-08T23:55:06.000Z",
+          "id": "1612236486585339904",
+          "author_id": "1485669492164374529"
+      },
+      {
+          "text": "Elon explains what your customers should WANT. Quite the opposite of what one would think. https://t.co/sI6gRTJ8PM",
+          "edit_history_tweet_ids": [
+              "1612236475118284800"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 6
+          },
+          "created_at": "2023-01-08T23:55:04.000Z",
+          "id": "1612236475118284800",
+          "author_id": "1603132339953057793"
+      },
+      {
+          "text": "Hello guys ,This is a really cool server ,I learned a lot of things there and also met some cool people who are helpful.\n➡ https://t.co/BRqBDzbtZk\n\n$shib $doge $floki $tking $elon $link $vet $sol $dot $movr https://t.co/wUCiJH9d5N",
+          "edit_history_tweet_ids": [
+              "1612236434374791168"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 1
+          },
+          "created_at": "2023-01-08T23:54:54.000Z",
+          "id": "1612236434374791168",
+          "author_id": "1562414577454702592"
+      },
+      {
+          "text": "Twitter workers laid off by Elon Musk two months ago still haven't received their severance pay and are now demanding answers https://t.co/WGqAHzve84",
+          "edit_history_tweet_ids": [
+              "1612236380440268800"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 46
+          },
+          "created_at": "2023-01-08T23:54:41.000Z",
+          "id": "1612236380440268800",
+          "author_id": "372536444"
+      },
+      {
+          "text": "Elon Musk wants to move trial away from San Francisco over ‘local negativity’: Kristen Radtke / The Verge; Getty Images Elon Musk has asked a judge to move an upcoming trial for a shareholder lawsuit out of San Francisco, citing… https://t.co/T3SiUfJpKI #technews #ev #tesla",
+          "edit_history_tweet_ids": [
+              "1612236342624387073"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 15
+          },
+          "created_at": "2023-01-08T23:54:32.000Z",
+          "id": "1612236342624387073",
+          "author_id": "1574149382416515074"
+      },
+      {
+          "text": "Hey Elon, \nWe should be allowed to follow back anyone in our feed regardless of the differential. \nMake it so",
+          "edit_history_tweet_ids": [
+              "1612236327050956800"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "impression_count": 63
+          },
+          "created_at": "2023-01-08T23:54:28.000Z",
+          "id": "1612236327050956800",
+          "author_id": "3172562871"
+      },
+      {
+          "text": "só porque não quis vender minha camiseta pro elon levaram ela embora 😭",
+          "edit_history_tweet_ids": [
+              "1612236292594483201"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 96
+          },
+          "created_at": "2023-01-08T23:54:20.000Z",
+          "id": "1612236292594483201",
+          "author_id": "1142938035568422919"
+      },
+      {
+          "text": "Getting a serious sense of deja vu from seeing the same tweets on my TL over and over again today. \n\nDid Elon spill his can of Monster on another server or what?",
+          "edit_history_tweet_ids": [
+              "1612236291881701377"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 69
+          },
+          "created_at": "2023-01-08T23:54:20.000Z",
+          "id": "1612236291881701377",
+          "author_id": "299869074"
+      },
+      {
+          "text": "elon hates me https://t.co/Mr7eOXWwLT",
+          "edit_history_tweet_ids": [
+              "1612236290736652288"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 5,
+              "quote_count": 0,
+              "impression_count": 373
+          },
+          "created_at": "2023-01-08T23:54:20.000Z",
+          "id": "1612236290736652288",
+          "author_id": "1535747031675043840"
+      },
+      {
+          "text": "On Musk's Twitter, users looking to sell and trade child sex abuse material are still easily found https://t.co/tHcdaOvQUd via @nbcnews",
+          "edit_history_tweet_ids": [
+              "1612236256670277632"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 11
+          },
+          "created_at": "2023-01-08T23:54:12.000Z",
+          "id": "1612236256670277632",
+          "author_id": "850845887630901250"
+      },
+      {
+          "text": "It’s so good commenting on idiotic democrats and not getting put in a time out.  Thank you Elon!",
+          "edit_history_tweet_ids": [
+              "1612236231512842242"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 5
+          },
+          "created_at": "2023-01-08T23:54:06.000Z",
+          "id": "1612236231512842242",
+          "author_id": "1578514755375038470"
+      },
+      {
+          "text": "No es por el Covid que tengo tos\nPrendí un cohete, soy Elon Musk\nEl smelle se mata con Hugo Nosé\nQue tiene de malo ser un smook? \n\nConfirmo asistencia  pa' I'm Smook Remix 🫡 junto a varios colegas súper duros en la movida 🤝🏾 Gracias @andrewz_wayne_rg por convocarme 💪🏾♥️ https://t.co/l2QcC0lv8o",
+          "edit_history_tweet_ids": [
+              "1612236182221365250"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 141
+          },
+          "created_at": "2023-01-08T23:53:54.000Z",
+          "id": "1612236182221365250",
+          "author_id": "3122552169"
+      },
+      {
+          "text": "What happened to the FauciFiles? Didn’t Elon say “later this week”. This week is just about over! Probably didnt want it to get lost in the speaker shuffle but we’re READY now LFG!!! https://t.co/zA6LeOArEW",
+          "edit_history_tweet_ids": [
+              "1612236160050561025"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 40
+          },
+          "created_at": "2023-01-08T23:53:49.000Z",
+          "id": "1612236160050561025",
+          "author_id": "1585863623401828352"
+      },
+      {
+          "text": "In my country it's complicated,but no one will change my country then me! Soon!Because i'm an ambassador,but i must to fight with Evil even in my own country!I am the same situation like Elon Musk!&amp;many times i cried and i thought to let my country!But i can't! I'm not a loser!🙄",
+          "edit_history_tweet_ids": [
+              "1612236157311385600"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 19
+          },
+          "created_at": "2023-01-08T23:53:48.000Z",
+          "id": "1612236157311385600",
+          "author_id": "1602300757860093954"
+      },
+      {
+          "text": "nine fuckin notifications from twitter bc people i don’t follow are tweeting chill elon",
+          "edit_history_tweet_ids": [
+              "1612236146452402176"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 2,
+              "like_count": 2,
+              "quote_count": 0,
+              "impression_count": 47
+          },
+          "created_at": "2023-01-08T23:53:45.000Z",
+          "id": "1612236146452402176",
+          "author_id": "975452824363466752"
+      },
+      {
+          "text": "#ElonMusk \nwhat is this?🤖\nJapanese Killer Robots Murder 29 Scientists |  Elon Musk Warned Us About... https://t.co/PB49OQEvOh via @YouTube",
+          "edit_history_tweet_ids": [
+              "1612236117461590016"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 18
+          },
+          "created_at": "2023-01-08T23:53:38.000Z",
+          "id": "1612236117461590016",
+          "author_id": "1274060802505363456"
+      },
+      {
+          "text": "A Tesla shareholder class action lawsuit may be moved to Texas if Elon Musk can demonstrate that the San Francisco Bay Area venue is biased due to recent media reports. \n\nPerhaps failing to pay Twitter's office rent was an intentional act to set this up. \n\nhttps://t.co/wHb4g9Tqav https://t.co/A0bKSyCUsb",
+          "edit_history_tweet_ids": [
+              "1612236089372348418"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 62
+          },
+          "created_at": "2023-01-08T23:53:32.000Z",
+          "id": "1612236089372348418",
+          "author_id": "225965335"
+      },
+      {
+          "text": "Elon is trying to take away my right to free speech",
+          "edit_history_tweet_ids": [
+              "1612236044833009664"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 22
+          },
+          "created_at": "2023-01-08T23:53:21.000Z",
+          "id": "1612236044833009664",
+          "author_id": "1611554575739240449"
+      },
+      {
+          "text": "fico chateada quando encontro um gif pra colocar como icon mas o twitter nao roda elon musk faca uma coisa q preste nessa bosta de app",
+          "edit_history_tweet_ids": [
+              "1612236033856536577"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 39
+          },
+          "created_at": "2023-01-08T23:53:19.000Z",
+          "id": "1612236033856536577",
+          "author_id": "846768896359194624"
+      },
+      {
+          "text": "We are so behind the rest of the world when it comes to thing like healthcare and public transportation. Even when it comes to freedom and I mean real freedom we lag behind many other countries. https://t.co/gIziI5yBKl",
+          "edit_history_tweet_ids": [
+              "1612236027669643264"
+          ],
+          "public_metrics": {
+              "retweet_count": 3,
+              "reply_count": 1,
+              "like_count": 14,
+              "quote_count": 0,
+              "impression_count": 151
+          },
+          "created_at": "2023-01-08T23:53:17.000Z",
+          "id": "1612236027669643264",
+          "author_id": "1348039734296195074"
+      },
+      {
+          "text": "Alguém tem o contato Elon musk , pede pra ele desativar o tt do monark.\nObg.",
+          "edit_history_tweet_ids": [
+              "1612235999337402368"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 2,
+              "quote_count": 1,
+              "impression_count": 110
+          },
+          "created_at": "2023-01-08T23:53:10.000Z",
+          "id": "1612235999337402368",
+          "author_id": "1297163189445185538"
+      },
+      {
+          "text": "oh elon come on daddy this could be and you https://t.co/LxPTTGsKpd",
+          "edit_history_tweet_ids": [
+              "1612235983231291392"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 3
+          },
+          "created_at": "2023-01-08T23:53:06.000Z",
+          "id": "1612235983231291392",
+          "author_id": "1612228575226208257"
+      },
+      {
+          "text": "where is the character increase to 4000 elon? im poor and cant afford your ridiculous fee for real time editing. how absurd @elonmusk",
+          "edit_history_tweet_ids": [
+              "1612235967477256194"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 9
+          },
+          "created_at": "2023-01-08T23:53:03.000Z",
+          "id": "1612235967477256194",
+          "author_id": "1562432717534273538"
+      },
+      {
+          "text": "LET ME OUTTA JAIL ELON WTF https://t.co/3bs8xzlKYs",
+          "edit_history_tweet_ids": [
+              "1612235947688722432"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 71
+          },
+          "created_at": "2023-01-08T23:52:58.000Z",
+          "id": "1612235947688722432",
+          "author_id": "1505958465226874883"
+      },
+      {
+          "text": "oy vey https://t.co/KRKlq5Z3EV",
+          "edit_history_tweet_ids": [
+              "1612235926914338818"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 7
+          },
+          "created_at": "2023-01-08T23:52:53.000Z",
+          "id": "1612235926914338818",
+          "author_id": "750360169"
+      },
+      {
+          "text": "No way Elon Musk bought Google...but and if he did 😂🤣😂😂🤣😂🤣😭 whew🙌🏽👏🏽🙌🏽👏🏽",
+          "edit_history_tweet_ids": [
+              "1612235900481576962"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 101
+          },
+          "created_at": "2023-01-08T23:52:47.000Z",
+          "id": "1612235900481576962",
+          "author_id": "1567406803"
+      },
+      {
+          "text": "#@micsolana Step up your game 🤣🤣 https://t.co/fvXvVi5ElF\n#sol #solana #cryptotrading #CryptoNews #cryptocurrencies #cryptotwitter #bitcoin #mining #miningnews #trading #tradingtips #hacking #hackingtips #cryptocurrency #cryptocurrencytrading #cryptocurrency_network",
+          "edit_history_tweet_ids": [
+              "1612235888775364610"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 1
+          },
+          "created_at": "2023-01-08T23:52:44.000Z",
+          "id": "1612235888775364610",
+          "author_id": "1510756397801218062"
+      },
+      {
+          "text": "#@micsolana Step up your game 🤣🤣 https://t.co/s0o4yAIzPG\n#decentraland #mana #ethereum #shibacoin #bitcoin #shibaArmy #exchange #metaverse #NFT #NFTs #defi #trading #unbanked #cryptocurrencies #crypto #blockchain #cryptocurrency #cryptotrading #Altcoins #video",
+          "edit_history_tweet_ids": [
+              "1612235809712742402"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 0
+          },
+          "created_at": "2023-01-08T23:52:25.000Z",
+          "id": "1612235809712742402",
+          "author_id": "1444760013822701568"
+      },
+      {
+          "text": "Elon Musk wants to move trial away from San Francisco over ‘local negativity’ https://t.co/RIowSkeg2a",
+          "edit_history_tweet_ids": [
+              "1612235788619776000"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 47
+          },
+          "created_at": "2023-01-08T23:52:20.000Z",
+          "id": "1612235788619776000",
+          "author_id": "372536444"
+      },
+      {
+          "text": "🔹 Hyperloop: pros y contras https://t.co/LmAKIMyMak",
+          "edit_history_tweet_ids": [
+              "1612235778456752130"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 75
+          },
+          "created_at": "2023-01-08T23:52:18.000Z",
+          "id": "1612235778456752130",
+          "author_id": "243474426"
+      },
+      {
+          "text": "dei play aqui em Glass Onion e já sei que vou gostar porque parece ser um filme de duas horas pra ridicularizar o Elon Musk",
+          "edit_history_tweet_ids": [
+              "1612235768931713025"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 2,
+              "like_count": 11,
+              "quote_count": 0,
+              "impression_count": 515
+          },
+          "created_at": "2023-01-08T23:52:15.000Z",
+          "id": "1612235768931713025",
+          "author_id": "199405046"
+      },
+      {
+          "text": "https://t.co/Eznhze4WWh.\nSo Elon Musk has bought Google.",
+          "edit_history_tweet_ids": [
+              "1612235753605431297"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 48
+          },
+          "created_at": "2023-01-08T23:52:12.000Z",
+          "id": "1612235753605431297",
+          "author_id": "744106594120638464"
+      },
+      {
+          "text": "elon anjgggg ngentottt tuuuu anjing bgtttt sihhhhh giliran butuh gini malah lu apuss anjgg",
+          "edit_history_tweet_ids": [
+              "1612235544528052224"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 24
+          },
+          "created_at": "2023-01-08T23:51:22.000Z",
+          "id": "1612235544528052224",
+          "author_id": "1319295563020390403"
+      },
+      {
+          "text": "@ elon\nNot showing up in Trending? https://t.co/I4O2JESPyI",
+          "edit_history_tweet_ids": [
+              "1612235514530385920"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 22
+          },
+          "created_at": "2023-01-08T23:51:15.000Z",
+          "id": "1612235514530385920",
+          "author_id": "1131942949"
+      },
+      {
+          "text": "The jet's operating costs came to $2.6 million and it produced 1,800 tonnes of CO2 - Elon Musk's Jet Made 134 Flights in 2022, Shortest Lasted 6 Minutes https://t.co/D2AJJHFz7J",
+          "edit_history_tweet_ids": [
+              "1612235513674571777"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 17
+          },
+          "created_at": "2023-01-08T23:51:15.000Z",
+          "id": "1612235513674571777",
+          "author_id": "17925338"
+      },
+      {
+          "text": "Why is twitter asking ME what’s happening? Elon Musk mistaked his Tesla for the BarraCarDuh but other than that obvious mistake I don’t understand anything going on right now https://t.co/gz34GPEWBy",
+          "edit_history_tweet_ids": [
+              "1612235436159602688"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 22
+          },
+          "created_at": "2023-01-08T23:50:56.000Z",
+          "id": "1612235436159602688",
+          "author_id": "1579998674167517185"
+      },
+      {
+          "text": "“We don’t need longer tweets”\n\nY’all have been asking to be able to send longer tweets since the app first came out. But now Elon Musk is adding it you suddenly hate the idea??\n\nI’m not even an Elon fan I Fucking hate him but everyone’s reaction to the update makes no sense",
+          "edit_history_tweet_ids": [
+              "1612235397903577088"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 39
+          },
+          "created_at": "2023-01-08T23:50:47.000Z",
+          "id": "1612235397903577088",
+          "author_id": "1497766864877142016"
+      },
+      {
+          "text": "https://t.co/LaELMyvWBM..., (January 9, 2023; 6:41 HKT) #ELONMUSK #ELON #FAIL",
+          "edit_history_tweet_ids": [
+              "1612235394967547905"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 23
+          },
+          "created_at": "2023-01-08T23:50:46.000Z",
+          "id": "1612235394967547905",
+          "author_id": "313536147"
+      },
+      {
+          "text": "HOT READ: All-conference safety transfer Omar Rogers commits to ECU. Rogers had a career season in 2022, totaling 60 tackles in Elon’s 8-4 season, including five tackles for loss, forced two fumbles and picked off three passes\nhttps://t.co/sty5krokmF https://t.co/heIPYGFFSC",
+          "edit_history_tweet_ids": [
+              "1612235138443739136",
+              "1612235387690262530"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 30,
+              "quote_count": 0,
+              "impression_count": 2146
+          },
+          "created_at": "2023-01-08T23:50:44.000Z",
+          "id": "1612235387690262530",
+          "author_id": "28092614"
+      },
+      {
+          "text": "Elon, the demonstrations in Brazil are legitimate, we have no one to turn to, the media here does not disclose the truth, HELP",
+          "edit_history_tweet_ids": [
+              "1612235323425144838"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 56
+          },
+          "created_at": "2023-01-08T23:50:29.000Z",
+          "id": "1612235323425144838",
+          "author_id": "88540832"
+      },
+      {
+          "text": "Elon Musk: \"I OFFICIALLY Bought Google\" https://t.co/WybFzxKKj5 vía @YouTube",
+          "edit_history_tweet_ids": [
+              "1612235285005303810"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 30
+          },
+          "created_at": "2023-01-08T23:50:20.000Z",
+          "id": "1612235285005303810",
+          "author_id": "519308636"
+      },
+      {
+          "text": "https://t.co/nGe2iJGQH2 - Did Elon Musk Just CONFIRM These Estimates?\n\nNEW, Patreon exclusive.\n\n$TSLA #ElonMusk #ModelY #Model3 #Tesla",
+          "edit_history_tweet_ids": [
+              "1612235276679778304"
+          ],
+          "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 10,
+              "like_count": 85,
+              "quote_count": 0,
+              "impression_count": 24835
+          },
+          "created_at": "2023-01-08T23:50:18.000Z",
+          "id": "1612235276679778304",
+          "author_id": "31263848"
+      },
+      {
+          "text": "Musk says he can't get fair trial in California, wants Texas (from @AP) https://t.co/eHuVQIRpSw",
+          "edit_history_tweet_ids": [
+              "1612235271151443969"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 23
+          },
+          "created_at": "2023-01-08T23:50:17.000Z",
+          "id": "1612235271151443969",
+          "author_id": "2429612832"
+      },
+      {
+          "text": "what a fuck elon help me",
+          "edit_history_tweet_ids": [
+              "1612235259034083329"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 3
+          },
+          "created_at": "2023-01-08T23:50:14.000Z",
+          "id": "1612235259034083329",
+          "author_id": "1523446940859576325"
+      },
+      {
+          "text": "I work in tunnelling/mining so when Elon said he had a way of improving development rates by a factor of 4 I was pretty intrigued. Turns out he just made the tunnel 4x smaller so a Tesla would fit instead of anything actually useful (like a train)",
+          "edit_history_tweet_ids": [
+              "1612235254898790400"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 2,
+              "like_count": 2,
+              "quote_count": 0,
+              "impression_count": 80
+          },
+          "created_at": "2023-01-08T23:50:13.000Z",
+          "id": "1612235254898790400",
+          "author_id": "1552621012604559360"
+      },
+      {
+          "text": "What's going on? Steve Jobs, Tim Cook, Jeff Bezos, and Warren Buffett Confronted This Brutal Truth. How About Elon Musk? https://t.co/IHZ27iVi0W https://t.co/mXZkuvR2jB",
+          "edit_history_tweet_ids": [
+              "1612235215786889216"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 29
+          },
+          "created_at": "2023-01-08T23:50:03.000Z",
+          "id": "1612235215786889216",
+          "author_id": "334834630"
+      },
+      {
+          "text": "10 minutes until #DogelonSpaceships mint🚀\n\n#dogelon #dogelonmars #dogelonwarriors #dogelonarmy $ELON",
+          "edit_history_tweet_ids": [
+              "1612235200133533698"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 4,
+              "quote_count": 0,
+              "impression_count": 261
+          },
+          "created_at": "2023-01-08T23:50:00.000Z",
+          "id": "1612235200133533698",
+          "author_id": "1551898084157935618"
+      },
+      {
+          "text": "elon maybe spaces shouldn't be a thing???????",
+          "edit_history_tweet_ids": [
+              "1612235171356618752"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 22
+          },
+          "created_at": "2023-01-08T23:49:53.000Z",
+          "id": "1612235171356618752",
+          "author_id": "1594379164190093312"
+      },
+      {
+          "text": "$BTC thanks to Elon market manipulation is in a key Support. \nhttps://t.co/Qql6oCbuXe\n\n$ALTS $BTC $THETA $MIR $ZIL $MATIC $XRP $DOGE $ETH $BNB https://t.co/PG5nvxCOya",
+          "edit_history_tweet_ids": [
+              "1612235170668777472"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 2,
+              "quote_count": 0,
+              "impression_count": 217
+          },
+          "created_at": "2023-01-08T23:49:53.000Z",
+          "id": "1612235170668777472",
+          "author_id": "1570891082032123907"
+      },
+      {
+          "text": "Elon Should Make The Character Limit Shorter Every Signal Day Until We Have To Use Like Specific Number Codes For Dogwhistles Like 05830",
+          "edit_history_tweet_ids": [
+              "1612235139744169985"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 2,
+              "quote_count": 0,
+              "impression_count": 115
+          },
+          "created_at": "2023-01-08T23:49:45.000Z",
+          "id": "1612235139744169985",
+          "author_id": "1508309228309475328"
+      },
+      {
+          "text": "HOT READ: All-conference safety transfer Omar Rogers commits to ECU. \nRogers had a career season in 2022, totaling 60 tackles in Elon’s 8-4 season, including five tackles for loss, forced two fumbles and picked off three passes\nhttps://t.co/sty5krokmF https://t.co/r7aDrm0gtk",
+          "edit_history_tweet_ids": [
+              "1612235138443739136",
+              "1612235387690262530"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 194
+          },
+          "created_at": "2023-01-08T23:49:45.000Z",
+          "id": "1612235138443739136",
+          "author_id": "28092614"
+      },
+      {
+          "text": "Another conspiracy: the great Artificial Intelligence Elon Musk warned us about in the far north are probably not wanting to start a youtube channel .........!!!!",
+          "edit_history_tweet_ids": [
+              "1612235113311633409"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 2
+          },
+          "created_at": "2023-01-08T23:49:39.000Z",
+          "id": "1612235113311633409",
+          "author_id": "939209002357067778"
+      },
+      {
+          "text": "Elon, we still need to know who sees our tweets. https://t.co/3xeiQ9KkuA",
+          "edit_history_tweet_ids": [
+              "1612235094718124035"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 21
+          },
+          "created_at": "2023-01-08T23:49:35.000Z",
+          "id": "1612235094718124035",
+          "author_id": "43193290"
+      },
+      {
+          "text": "Press LIKE if you want Elon Musk to release the Epstein Files Next!",
+          "edit_history_tweet_ids": [
+              "1612235087239692289"
+          ],
+          "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 2,
+              "like_count": 3,
+              "quote_count": 0,
+              "impression_count": 25
+          },
+          "created_at": "2023-01-08T23:49:33.000Z",
+          "id": "1612235087239692289",
+          "author_id": "1443362684121010178"
+      },
+      {
+          "text": "The Doctor and Michelle Obama land in a shit birthday party, where they land on top of Elon Musk",
+          "edit_history_tweet_ids": [
+              "1612235004658200576"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 11
+          },
+          "created_at": "2023-01-08T23:49:13.000Z",
+          "id": "1612235004658200576",
+          "author_id": "884034683113267201"
+      },
+      {
+          "text": "Imagine having the nerve to nag/guilt trip your followers for PayPal donations week in, week out but then be able to waste £11 a month paying Elon Musk for a blue tick. 😂🤦🏼‍♀️ https://t.co/ZRNI4XO7A5",
+          "edit_history_tweet_ids": [
+              "1612234967563571203"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 3,
+              "quote_count": 0,
+              "impression_count": 642
+          },
+          "created_at": "2023-01-08T23:49:04.000Z",
+          "id": "1612234967563571203",
+          "author_id": "370930992"
+      },
+      {
+          "text": "After seeing glass onion, incels are giving way too much credit to Elon thinking Miles Bron is him. He’s caricature just like everyone else in the movie",
+          "edit_history_tweet_ids": [
+              "1612234958189256706"
+          ],
+          "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 2,
+              "quote_count": 0,
+              "impression_count": 197
+          },
+          "created_at": "2023-01-08T23:49:02.000Z",
+          "id": "1612234958189256706",
+          "author_id": "1373313360243081219"
+      },
+      {
+          "text": "If you wanted to buy a Tesla but are fed up with Elon Musk, here are some excellent alternative EVs https://t.co/sWkFiaWx7k",
+          "edit_history_tweet_ids": [
+              "1612234954129252353"
+          ],
+          "public_metrics": {
+              "retweet_count": 31,
+              "reply_count": 56,
+              "like_count": 95,
+              "quote_count": 11,
+              "impression_count": 78374
+          },
+          "created_at": "2023-01-08T23:49:01.000Z",
+          "id": "1612234954129252353",
+          "author_id": "34713362"
+      }
+  ],
+  "includes": {
+      "users": [
+          {
+              "protected": false,
+              "verified": false,
+              "name": "The Mablest of Donkeys",
+              "username": "MableDONKEY",
+              "id": "942685843",
+              "public_metrics": {
+                  "followers_count": 191,
+                  "following_count": 819,
+                  "tweet_count": 17730,
+                  "listed_count": 4
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Kraig Mick Adams",
+              "username": "KraigMick",
+              "id": "1275479934157369344",
+              "public_metrics": {
+                  "followers_count": 50,
+                  "following_count": 119,
+                  "tweet_count": 1450,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "َ",
+              "username": "sinyal4g",
+              "id": "1612216085612474370",
+              "public_metrics": {
+                  "followers_count": 14,
+                  "following_count": 41,
+                  "tweet_count": 948,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Ian Bamberger",
+              "username": "Jbamb1992",
+              "id": "27526008",
+              "public_metrics": {
+                  "followers_count": 95,
+                  "following_count": 651,
+                  "tweet_count": 2972,
+                  "listed_count": 2
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "JoãoPradoC.Torres",
+              "username": "JooPradoCTorres",
+              "id": "456176493",
+              "public_metrics": {
+                  "followers_count": 537,
+                  "following_count": 2130,
+                  "tweet_count": 233375,
+                  "listed_count": 29
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Jimmy Saville the world renowned pedophile (parody",
+              "username": "uncleDopey",
+              "id": "3835582274",
+              "public_metrics": {
+                  "followers_count": 1258,
+                  "following_count": 3964,
+                  "tweet_count": 142350,
+                  "listed_count": 15
+              }
+          },
+          {
+              "protected": false,
+              "verified": true,
+              "name": "The Economist US",
+              "username": "EconUS",
+              "id": "32353291",
+              "public_metrics": {
+                  "followers_count": 147414,
+                  "following_count": 206,
+                  "tweet_count": 57009,
+                  "listed_count": 3623
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "mwh",
+              "username": "Ride80Free",
+              "id": "993886763902029825",
+              "public_metrics": {
+                  "followers_count": 152,
+                  "following_count": 242,
+                  "tweet_count": 9864,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Jonnee Rotten",
+              "username": "jonnee_rotten",
+              "id": "1519365540753682433",
+              "public_metrics": {
+                  "followers_count": 68,
+                  "following_count": 281,
+                  "tweet_count": 663,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "DUiPhone 1776",
+              "username": "FamLikely",
+              "id": "1267323012111634435",
+              "public_metrics": {
+                  "followers_count": 70,
+                  "following_count": 340,
+                  "tweet_count": 1610,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "creatrixZBD",
+              "username": "zbdEmanuelle",
+              "id": "28553634",
+              "public_metrics": {
+                  "followers_count": 280,
+                  "following_count": 410,
+                  "tweet_count": 9223,
+                  "listed_count": 9
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "DC-Meteorology",
+              "username": "The_extreme96",
+              "id": "1480722238106226690",
+              "public_metrics": {
+                  "followers_count": 38,
+                  "following_count": 134,
+                  "tweet_count": 960,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Miami Diario",
+              "username": "miami_diario",
+              "id": "1278656840180600833",
+              "public_metrics": {
+                  "followers_count": 12232,
+                  "following_count": 308,
+                  "tweet_count": 468462,
+                  "listed_count": 31
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "gabriel៹ it boy",
+              "username": "thvow",
+              "id": "1114537631529017344",
+              "public_metrics": {
+                  "followers_count": 23461,
+                  "following_count": 14571,
+                  "tweet_count": 82784,
+                  "listed_count": 54
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "bee",
+              "username": "itzygavi",
+              "id": "1532494980874489857",
+              "public_metrics": {
+                  "followers_count": 85,
+                  "following_count": 144,
+                  "tweet_count": 874,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Grzegorz Grabowski",
+              "username": "wielkaburza",
+              "id": "1548676342853652480",
+              "public_metrics": {
+                  "followers_count": 88,
+                  "following_count": 98,
+                  "tweet_count": 6361,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Tech News Tube",
+              "username": "TechNewsTube",
+              "id": "493580137",
+              "public_metrics": {
+                  "followers_count": 751,
+                  "following_count": 2480,
+                  "tweet_count": 125493,
+                  "listed_count": 61
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Faris🏴‍☠️",
+              "username": "My_Fckn_SZN",
+              "id": "1586031245284282369",
+              "public_metrics": {
+                  "followers_count": 46,
+                  "following_count": 253,
+                  "tweet_count": 2052,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "R!CKYRANTS 🇸🇴",
+              "username": "slikrik2003",
+              "id": "53533774",
+              "public_metrics": {
+                  "followers_count": 4814,
+                  "following_count": 4992,
+                  "tweet_count": 66783,
+                  "listed_count": 34
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Felix",
+              "username": "MrsPsp",
+              "id": "112857411",
+              "public_metrics": {
+                  "followers_count": 2579,
+                  "following_count": 5002,
+                  "tweet_count": 207770,
+                  "listed_count": 12
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "loose Unit 👍👀",
+              "username": "John77167223",
+              "id": "1275374369049477120",
+              "public_metrics": {
+                  "followers_count": 911,
+                  "following_count": 1038,
+                  "tweet_count": 157600,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Fr. Dwight Longenecker",
+              "username": "dlongenecker1",
+              "id": "398184852",
+              "public_metrics": {
+                  "followers_count": 47799,
+                  "following_count": 1471,
+                  "tweet_count": 33807,
+                  "listed_count": 454
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "doctor TBVan",
+              "username": "doctortbvan",
+              "id": "1610041234122330114",
+              "public_metrics": {
+                  "followers_count": 1,
+                  "following_count": 2,
+                  "tweet_count": 8,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Randomly Generated Chubbyemu Titles",
+              "username": "CEVidTitles",
+              "id": "1468068767724802052",
+              "public_metrics": {
+                  "followers_count": 764,
+                  "following_count": 2,
+                  "tweet_count": 8790,
+                  "listed_count": 1
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Blizzard",
+              "username": "blizthehusky",
+              "id": "2430822780",
+              "public_metrics": {
+                  "followers_count": 1948,
+                  "following_count": 2781,
+                  "tweet_count": 37193,
+                  "listed_count": 13
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "bellafromdoggieheaven",
+              "username": "Nisivoccia2",
+              "id": "1328178129991569408",
+              "public_metrics": {
+                  "followers_count": 7423,
+                  "following_count": 8250,
+                  "tweet_count": 10813,
+                  "listed_count": 1
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "𝐕𝐚𝐥𝐞𝐬𝐤𝐚 #𝟏",
+              "username": "AnarchistComic",
+              "id": "1213751808",
+              "public_metrics": {
+                  "followers_count": 799,
+                  "following_count": 378,
+                  "tweet_count": 16484,
+                  "listed_count": 10
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Lethality Jane🌻",
+              "username": "LethalityJane",
+              "id": "2332044398",
+              "public_metrics": {
+                  "followers_count": 43521,
+                  "following_count": 958,
+                  "tweet_count": 75735,
+                  "listed_count": 229
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Frackoff Felgercarb",
+              "username": "FrackoffF",
+              "id": "1312260838879887360",
+              "public_metrics": {
+                  "followers_count": 1484,
+                  "following_count": 2757,
+                  "tweet_count": 72771,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Dred",
+              "username": "Sc0ttSDr3d",
+              "id": "1463991152458227713",
+              "public_metrics": {
+                  "followers_count": 996,
+                  "following_count": 523,
+                  "tweet_count": 11878,
+                  "listed_count": 8
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Jerome Hazelwood",
+              "username": "JeromeHazelwoo2",
+              "id": "1519720601698504704",
+              "public_metrics": {
+                  "followers_count": 1741,
+                  "following_count": 1943,
+                  "tweet_count": 6004,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Bill M Moore",
+              "username": "BillMoore20",
+              "id": "8157452",
+              "public_metrics": {
+                  "followers_count": 135063,
+                  "following_count": 122067,
+                  "tweet_count": 405588,
+                  "listed_count": 1436
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Alyx♡♡",
+              "username": "MIRR0REDH34RT",
+              "id": "1601043360076251136",
+              "public_metrics": {
+                  "followers_count": 111,
+                  "following_count": 126,
+                  "tweet_count": 2921,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Judith M",
+              "username": "redlippedbat",
+              "id": "115671270",
+              "public_metrics": {
+                  "followers_count": 112,
+                  "following_count": 365,
+                  "tweet_count": 1139,
+                  "listed_count": 6
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Connie Sepulveda",
+              "username": "YaroslaKruglov",
+              "id": "1515051169311522816",
+              "public_metrics": {
+                  "followers_count": 39,
+                  "following_count": 82,
+                  "tweet_count": 98,
+                  "listed_count": 2
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "7 Doors To Heaven.",
+              "username": "7DoorsToHeaven",
+              "id": "1594436206737387521",
+              "public_metrics": {
+                  "followers_count": 6,
+                  "following_count": 61,
+                  "tweet_count": 250,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Marcus Hendricks",
+              "username": "m_hendricks27",
+              "id": "1239381130341683202",
+              "public_metrics": {
+                  "followers_count": 107,
+                  "following_count": 401,
+                  "tweet_count": 2160,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Bebe",
+              "username": "BeulahNix",
+              "id": "1945668452",
+              "public_metrics": {
+                  "followers_count": 658,
+                  "following_count": 809,
+                  "tweet_count": 81737,
+                  "listed_count": 14
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Direto da América",
+              "username": "DiretoDaAmerica",
+              "id": "1276252006701817874",
+              "public_metrics": {
+                  "followers_count": 76796,
+                  "following_count": 1639,
+                  "tweet_count": 3183,
+                  "listed_count": 146
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Colin",
+              "username": "Colin1866",
+              "id": "1485669492164374529",
+              "public_metrics": {
+                  "followers_count": 1372,
+                  "following_count": 1817,
+                  "tweet_count": 34250,
+                  "listed_count": 2
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "FlamingHustler",
+              "username": "FlamingHustler",
+              "id": "1603132339953057793",
+              "public_metrics": {
+                  "followers_count": 0,
+                  "following_count": 1,
+                  "tweet_count": 96,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Kaitlyn Sayer",
+              "username": "SayerKaitlyn",
+              "id": "1562414577454702592",
+              "public_metrics": {
+                  "followers_count": 26,
+                  "following_count": 22,
+                  "tweet_count": 11201,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Linda #GlovesOff 🌻🆘 🐿🐕🕊",
+              "username": "lindaworkerbee",
+              "id": "372536444",
+              "public_metrics": {
+                  "followers_count": 19703,
+                  "following_count": 19638,
+                  "tweet_count": 117380,
+                  "listed_count": 6
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Embedded House",
+              "username": "embedded_house",
+              "id": "1574149382416515074",
+              "public_metrics": {
+                  "followers_count": 192,
+                  "following_count": 49,
+                  "tweet_count": 30822,
+                  "listed_count": 4
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Ray Garner",
+              "username": "ray_bassman",
+              "id": "3172562871",
+              "public_metrics": {
+                  "followers_count": 3970,
+                  "following_count": 5001,
+                  "tweet_count": 6733,
+                  "listed_count": 2
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "mabi",
+              "username": "pdpmayara",
+              "id": "1142938035568422919",
+              "public_metrics": {
+                  "followers_count": 342,
+                  "following_count": 257,
+                  "tweet_count": 12242,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Doctor Murder, M.D.☮️#BLM #Antifa #ACAB☮️",
+              "username": "Rottenplanet",
+              "id": "299869074",
+              "public_metrics": {
+                  "followers_count": 883,
+                  "following_count": 4654,
+                  "tweet_count": 128861,
+                  "listed_count": 22
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "orla 🎓🦆| lexi loves me",
+              "username": "orylaaaaaaaaaa",
+              "id": "1535747031675043840",
+              "public_metrics": {
+                  "followers_count": 398,
+                  "following_count": 397,
+                  "tweet_count": 5792,
+                  "listed_count": 11
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Bryan Hates Morons",
+              "username": "HatesImbecile",
+              "id": "850845887630901250",
+              "public_metrics": {
+                  "followers_count": 912,
+                  "following_count": 905,
+                  "tweet_count": 22638,
+                  "listed_count": 2
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "OMG!",
+              "username": "OMG18460084",
+              "id": "1578514755375038470",
+              "public_metrics": {
+                  "followers_count": 54,
+                  "following_count": 89,
+                  "tweet_count": 682,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Laco ☪️",
+              "username": "lacothekid",
+              "id": "3122552169",
+              "public_metrics": {
+                  "followers_count": 100,
+                  "following_count": 162,
+                  "tweet_count": 3278,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Jenny Jasperson",
+              "username": "JennyPop_person",
+              "id": "1585863623401828352",
+              "public_metrics": {
+                  "followers_count": 10,
+                  "following_count": 60,
+                  "tweet_count": 72,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Gabrielle",
+              "username": "GabriellemMaryn",
+              "id": "1602300757860093954",
+              "public_metrics": {
+                  "followers_count": 3,
+                  "following_count": 38,
+                  "tweet_count": 291,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "regress",
+              "username": "trashpuff",
+              "id": "975452824363466752",
+              "public_metrics": {
+                  "followers_count": 37,
+                  "following_count": 265,
+                  "tweet_count": 10585,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "GaPeachNW",
+              "username": "GaPeachNW",
+              "id": "1274060802505363456",
+              "public_metrics": {
+                  "followers_count": 1290,
+                  "following_count": 2770,
+                  "tweet_count": 7545,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Andy Fergusson",
+              "username": "misterfergusson",
+              "id": "225965335",
+              "public_metrics": {
+                  "followers_count": 824,
+                  "following_count": 1166,
+                  "tweet_count": 13200,
+                  "listed_count": 386
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "weeknd",
+              "username": "psychwarrd111",
+              "id": "1611554575739240449",
+              "public_metrics": {
+                  "followers_count": 2,
+                  "following_count": 15,
+                  "tweet_count": 437,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "na",
+              "username": "jiminsteIlar",
+              "id": "846768896359194624",
+              "public_metrics": {
+                  "followers_count": 81,
+                  "following_count": 298,
+                  "tweet_count": 51408,
+                  "listed_count": 1
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "David Pederson",
+              "username": "DavidblogerICBW",
+              "id": "1348039734296195074",
+              "public_metrics": {
+                  "followers_count": 26221,
+                  "following_count": 26281,
+                  "tweet_count": 69907,
+                  "listed_count": 20
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Italo Lopes 👨‍🚀",
+              "username": "ItalodeAssisSi2",
+              "id": "1297163189445185538",
+              "public_metrics": {
+                  "followers_count": 99,
+                  "following_count": 190,
+                  "tweet_count": 2740,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "I Dont",
+              "username": "Dont60551019I",
+              "id": "1612228575226208257",
+              "public_metrics": {
+                  "followers_count": 0,
+                  "following_count": 1,
+                  "tweet_count": 24,
+                  "listed_count": 1
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Richard Schaefer",
+              "username": "cephrad420",
+              "id": "1562432717534273538",
+              "public_metrics": {
+                  "followers_count": 153,
+                  "following_count": 139,
+                  "tweet_count": 4879,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "⋆ ˚｡⋆୨୧˚𝒶𝓈𝒽 ˚୨୧⋆｡˚ ⋆",
+              "username": "ekkanhearme_",
+              "id": "1505958465226874883",
+              "public_metrics": {
+                  "followers_count": 190,
+                  "following_count": 150,
+                  "tweet_count": 4701,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "J. McCavendish",
+              "username": "limitlesskait",
+              "id": "750360169",
+              "public_metrics": {
+                  "followers_count": 1116,
+                  "following_count": 1415,
+                  "tweet_count": 175648,
+                  "listed_count": 5
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "GetVictd",
+              "username": "GetVictd_73",
+              "id": "1567406803",
+              "public_metrics": {
+                  "followers_count": 14,
+                  "following_count": 43,
+                  "tweet_count": 519,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "xbitcoin",
+              "username": "xbitcoin3",
+              "id": "1510756397801218062",
+              "public_metrics": {
+                  "followers_count": 12,
+                  "following_count": 12,
+                  "tweet_count": 7321,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "#Women and #Crypto",
+              "username": "LucioOcchipinti",
+              "id": "1444760013822701568",
+              "public_metrics": {
+                  "followers_count": 30,
+                  "following_count": 33,
+                  "tweet_count": 12244,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Gaceta de Madrid",
+              "username": "GacetaMadrid",
+              "id": "243474426",
+              "public_metrics": {
+                  "followers_count": 574268,
+                  "following_count": 36571,
+                  "tweet_count": 1982776,
+                  "listed_count": 890
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "bernardo",
+              "username": "bern_costa",
+              "id": "199405046",
+              "public_metrics": {
+                  "followers_count": 594,
+                  "following_count": 1353,
+                  "tweet_count": 22433,
+                  "listed_count": 1
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "ozzy J osbourne",
+              "username": "ozzyosbourne56",
+              "id": "744106594120638464",
+              "public_metrics": {
+                  "followers_count": 462,
+                  "following_count": 51,
+                  "tweet_count": 26919,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "jovia",
+              "username": "taubwat",
+              "id": "1319295563020390403",
+              "public_metrics": {
+                  "followers_count": 215,
+                  "following_count": 476,
+                  "tweet_count": 27452,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "American Woman 🇺🇸",
+              "username": "wood_0",
+              "id": "1131942949",
+              "public_metrics": {
+                  "followers_count": 182,
+                  "following_count": 439,
+                  "tweet_count": 3612,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Patrice Lamoree",
+              "username": "alkahest",
+              "id": "17925338",
+              "public_metrics": {
+                  "followers_count": 216,
+                  "following_count": 926,
+                  "tweet_count": 16567,
+                  "listed_count": 8
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Yui 🐀",
+              "username": "YSorocco",
+              "id": "1579998674167517185",
+              "public_metrics": {
+                  "followers_count": 3,
+                  "following_count": 27,
+                  "tweet_count": 124,
+                  "listed_count": 1
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Hero/Hydrolic",
+              "username": "RyanNotGivingAF",
+              "id": "1497766864877142016",
+              "public_metrics": {
+                  "followers_count": 27,
+                  "following_count": 221,
+                  "tweet_count": 1173,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "ActivistBowen: #PFIZER X 4",
+              "username": "ActivistBowen2",
+              "id": "313536147",
+              "public_metrics": {
+                  "followers_count": 4344,
+                  "following_count": 4907,
+                  "tweet_count": 257569,
+                  "listed_count": 1020
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Pirate Radio ☠️",
+              "username": "PR927FM",
+              "id": "28092614",
+              "public_metrics": {
+                  "followers_count": 16959,
+                  "following_count": 820,
+                  "tweet_count": 59805,
+                  "listed_count": 141
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Claudinho",
+              "username": "ClaudioDib",
+              "id": "88540832",
+              "public_metrics": {
+                  "followers_count": 542,
+                  "following_count": 392,
+                  "tweet_count": 79,
+                  "listed_count": 2
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "sole requena🇪🇸🇻🇪",
+              "username": "alal_sp",
+              "id": "519308636",
+              "public_metrics": {
+                  "followers_count": 838,
+                  "following_count": 1107,
+                  "tweet_count": 84546,
+                  "listed_count": 12
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "stevenmarkryan",
+              "username": "stevenmarkryan",
+              "id": "31263848",
+              "public_metrics": {
+                  "followers_count": 170035,
+                  "following_count": 144,
+                  "tweet_count": 10715,
+                  "listed_count": 819
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "willa percy",
+              "username": "willapercy",
+              "id": "2429612832",
+              "public_metrics": {
+                  "followers_count": 11477,
+                  "following_count": 11585,
+                  "tweet_count": 191370,
+                  "listed_count": 22
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "sylvain robert",
+              "username": "sylvain22243316",
+              "id": "1523446940859576325",
+              "public_metrics": {
+                  "followers_count": 2,
+                  "following_count": 39,
+                  "tweet_count": 38,
+                  "listed_count": 2
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "fur trapper",
+              "username": "someoIdbulIshit",
+              "id": "1552621012604559360",
+              "public_metrics": {
+                  "followers_count": 93,
+                  "following_count": 512,
+                  "tweet_count": 3518,
+                  "listed_count": 1
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Small Business News",
+              "username": "ogoingnews",
+              "id": "334834630",
+              "public_metrics": {
+                  "followers_count": 990,
+                  "following_count": 204,
+                  "tweet_count": 57004,
+                  "listed_count": 159
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Dogelon independent devs",
+              "username": "Dogelon_dev",
+              "id": "1551898084157935618",
+              "public_metrics": {
+                  "followers_count": 434,
+                  "following_count": 14,
+                  "tweet_count": 444,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "elizabeth - selling 2 eras tour tixs 8/4",
+              "username": "my5littlefreaks",
+              "id": "1594379164190093312",
+              "public_metrics": {
+                  "followers_count": 93,
+                  "following_count": 151,
+                  "tweet_count": 2831,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "dowjones",
+              "username": "dowjone620",
+              "id": "1570891082032123907",
+              "public_metrics": {
+                  "followers_count": 20,
+                  "following_count": 0,
+                  "tweet_count": 8697,
+                  "listed_count": 1
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Leon \"Devious Sardonicus Ov Nibiru\" Yvngian",
+              "username": "IRapeGothGirls",
+              "id": "1508309228309475328",
+              "public_metrics": {
+                  "followers_count": 109,
+                  "following_count": 276,
+                  "tweet_count": 2175,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "beep boop",
+              "username": "boop_boop_boop_",
+              "id": "939209002357067778",
+              "public_metrics": {
+                  "followers_count": 24,
+                  "following_count": 27,
+                  "tweet_count": 88008,
+                  "listed_count": 6
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "فلسطين",
+              "username": "anqaboot",
+              "id": "43193290",
+              "public_metrics": {
+                  "followers_count": 132,
+                  "following_count": 56,
+                  "tweet_count": 3781,
+                  "listed_count": 2
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "I left the Left",
+              "username": "HaroldL14033503",
+              "id": "1443362684121010178",
+              "public_metrics": {
+                  "followers_count": 76,
+                  "following_count": 191,
+                  "tweet_count": 4978,
+                  "listed_count": 0
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Doctor Who Bot",
+              "username": "doctor_whobot",
+              "id": "884034683113267201",
+              "public_metrics": {
+                  "followers_count": 140,
+                  "following_count": 6,
+                  "tweet_count": 87507,
+                  "listed_count": 2
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "Chezbomb 💣🎆",
+              "username": "cheryloIivia",
+              "id": "370930992",
+              "public_metrics": {
+                  "followers_count": 3749,
+                  "following_count": 768,
+                  "tweet_count": 65776,
+                  "listed_count": 39
+              }
+          },
+          {
+              "protected": false,
+              "verified": false,
+              "name": "fredo",
+              "username": "FredoDaGawd7",
+              "id": "1373313360243081219",
+              "public_metrics": {
+                  "followers_count": 563,
+                  "following_count": 459,
+                  "tweet_count": 32531,
+                  "listed_count": 3
+              }
+          },
+          {
+              "protected": false,
+              "verified": true,
+              "name": "Bloomberg",
+              "username": "business",
+              "id": "34713362",
+              "public_metrics": {
+                  "followers_count": 9103392,
+                  "following_count": 1454,
+                  "tweet_count": 887135,
+                  "listed_count": 69150
+              }
+          }
+      ]
+  },
+  "meta": {
+      "newest_id": "1612237715466059781",
+      "oldest_id": "1612234954129252353",
+      "result_count": 97,
+      "next_token": "b26v89c19zqg8o3fqk406qa8kzz8rgitj3wg3iqanpkl9"
+  }
+}
